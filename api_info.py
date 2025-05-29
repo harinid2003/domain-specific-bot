@@ -1,0 +1,8 @@
+gemini_api_key="AIzaSyBtpHuGb9_de5sHPlCKOuYh8baTxpUd_ek"
+weaviate_api_key = "MN7jtWqSCwJJCqlx0VYXfo2a2C0hxBfdMavN"
+weaviate_url = "https://ffere5iqiybclw5bpxhhg.c0.asia-southeast1.gcp.weaviate.cloud"
+mongodb_uri = "mongodb+srv://esdhanush:esdhanush@chatbot-tenant.ygawpu1.mongodb.net/"
+langchain_tracing_v2="true"
+langchain_api_key = "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"
+langchain_endpoint = "https://api.smith.langchain.com"
+langchain_project = "rag-chatbot"
